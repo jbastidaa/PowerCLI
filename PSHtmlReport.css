@@ -1,0 +1,28 @@
+table
+{
+Margin: 0px 0px 0px 4px;
+Border: 1px solid rgb(255, 255, 255);
+Font-Family: Arial;
+Font-Size: 8pt;
+Background-Color: rgb(252, 252, 252);
+}
+tr:hover td
+{
+Background-Color: rgb(0, 127, 195);
+Color: rgb(255, 255, 255);
+}
+tr:nth-child(even)
+{
+Background-Color: rgb(171, 252, 182);
+}
+th
+{
+Text-Align: Left;
+Color: rgb(0, 0, 255);
+Padding: 1px 4px 1px 4px;
+}
+td
+{
+Vertical-Align: Top;
+Padding: 1px 4px 1px 4px;
+}
