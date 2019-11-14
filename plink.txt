@@ -1,0 +1,1 @@
+$commandoutput = echo y | &("C:\Program Files (x86)\PuTTY\plink.exe") -pw "p@ssword123" root@192.168.92.128 "df -h"
