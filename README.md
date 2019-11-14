@@ -1,2 +1,2 @@
 # PowerCLI
- Repositorio de Scripts para la administración de VMware vSphre
+ Repositorio de Scripts para la administración de VMware vSpehre
